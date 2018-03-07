@@ -1,0 +1,28 @@
+socks="socks"
+jeans="jeans"
+laptop="laptop"
+toiletries="toiletries"
+
+luggage=[]
+iteml=raw_input("what you like to pack? ")
+iteml2=raw_input("contine ")
+iteml3=raw_input("contine ")
+iteml4=raw_input("contine ")
+iteml4=raw_input("contine ")
+luggage.append(iteml)
+
+
+
+
+
+
+print(luggage[-1])
+
+grades=[
+96.0,
+100.0,
+75.5,
+89.5
+]
+
+print(grades,sum(grades)/len(grades))
