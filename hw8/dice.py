@@ -1,7 +1,13 @@
+import random
 
 
-1stPlayer = 0
-2edPlayer = 0
-1stRound = 0
-2edRound = 0
-Final = 
+for rollfirst in xrange(1):
+	print random.randint(1,6),
+print
+
+for rollseconed in xrange(1):
+	print random.randint(1,6),
+print
+
+
+
